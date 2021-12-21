@@ -5,6 +5,8 @@ It was designed as a terminal (bash, VS Code, whichever) game, and so the best e
 
 But you should be able to double-click the main game file and get a servicable rendition, albeit less colorful, visually.
 
+Download zip from Releases
+
 How to use it
 ---------------------
 If using from terminal:
